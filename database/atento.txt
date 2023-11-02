@@ -1,0 +1,10 @@
+
+
+
+accesos al sistema
+
+****** aceso del SuperAdmin ****
+login : Administrador
+pass  : Administrador
+
+Soporta xammp 7.4 hasta 8.2
